@@ -74,7 +74,7 @@
   "devDependencies": {
     "@rollup/plugin-commonjs": "^22.0.0",
     "@rollup/plugin-node-resolve": "^13.3.0",
-    "@size-limit/preset-big-lib": "^7.0.8",
+    "@size-limit/preset-big-lib": "^8.2.6",
     "@trivago/prettier-plugin-sort-imports": "^3.3.1",
     "@types/jest": "^29.5.3",
     "@typescript-eslint/eslint-plugin": "^5.16.0",
