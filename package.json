@@ -92,7 +92,7 @@
     "prettier-plugin-jsdoc": "^0.3.38",
     "rollup": "^3.28.0",
     "rollup-plugin-typescript2": "^0.31.2",
-    "size-limit": "^7.0.8",
+    "size-limit": "^8.2.6",
     "ts-jest": "^27.1.4",
     "tslib": "^2.3.1",
     "typedoc": "^0.24.8",
